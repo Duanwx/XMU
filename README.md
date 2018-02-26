@@ -1,3 +1,2 @@
 # XMU
-Graduate_Student
-freshman
+I'm a graduate student and a freshman in github!
